@@ -1,4 +1,7 @@
 
+Prerequisites
+-Composer
+-AWS SDK for PHP
 
 1)Create new aws lambda with custom runtime 
 2)Create a layer with included zip (Lambda/Layer/runtime.zip)
