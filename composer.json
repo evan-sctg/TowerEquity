@@ -1,0 +1,8 @@
+{
+    "name": "TowerEquity (PHP, SQS, Lambda)",
+    "type": "project",
+    "description": "PHP terminal program that calculates the sum of two numbers using AWS Lambda and AWS Simple Queue Service.",
+    "require": {
+        "aws/aws-sdk-php": "2.*"
+    }
+}
